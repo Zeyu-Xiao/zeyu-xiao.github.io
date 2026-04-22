@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="X monogram favicon">
+  <defs>
+    <linearGradient id="bg" x1="10" y1="8" x2="54" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbf6ec" />
+      <stop offset="1" stop-color="#eef4ec" />
+    </linearGradient>
+    <linearGradient id="stroke" x1="12" y1="10" x2="52" y2="54" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8b489" />
+      <stop offset="1" stop-color="#9f7a52" />
+    </linearGradient>
+  </defs>
+  <rect x="5" y="5" width="54" height="54" rx="15" fill="url(#bg)" stroke="url(#stroke)" stroke-width="2.2" />
+  <path
+    d="M22.6 18h6.9l7.3 10 7.2-10h6.6L40.4 32.1 51.5 46H44.6L36.8 35.4 29 46h-6.6l11-14.1L22.6 18Z"
+    fill="#5b412b"
+  />
+  <circle cx="49.5" cy="16.5" r="4.3" fill="#1772d0" />
+</svg>
